@@ -4,7 +4,7 @@ To start this application first you can get this repo code using below url
 
 git clone https://github.com/LandmakTechnology/nodejs-application
 
-cd nodejs-app-mss
+cd nodejs-application
 
 npm install
 
